@@ -8,7 +8,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cloudflare-project",
+	"name": "cloud",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2026-11-13",
 	"compatibility_flags": [
